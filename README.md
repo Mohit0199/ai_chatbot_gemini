@@ -47,7 +47,6 @@ streamlit run chatbot_ui.py
 ## 📜 Usage
 - Enter a message in the input box.
 - AI will respond based on the conversation history.
-- Emojis are supported in responses.
 - Type naturally, and enjoy chatting with the AI!
 
 
