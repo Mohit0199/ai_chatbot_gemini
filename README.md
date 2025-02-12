@@ -1,6 +1,6 @@
 # 🤖 Google Gemini AI Chatbot with Streamlit
 
-A simple AI chatbot built using Google Gemini-Pro and Streamlit, featuring a conversational UI, emoji support, and session-based chat history.
+A simple AI chatbot built using Google Gemini-Pro and Streamlit, featuring a conversational UI and session-based chat history.
 
 ---
 
